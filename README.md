@@ -29,18 +29,18 @@
 
 ## 🚀 Featured Projects  
 
-- **[ClassConnect](https://github.com/adityaraj98769/ClassConnect)**  
-  A classroom participation app built with MERN stack.  
 
-- **[VogueTress](https://github.com/adityaraj98769/VogueTress)**  
-  E-commerce platform for hair accessories.  
+- **[SkillSync AI](https://s-kill-sync.vercel.app/)**  
+  An AI-powered Resume Analyzer & Interview Preparation System that provides smart feedback, identifies skill gaps, and helps users improve their chances of cracking interviews.  
+
+- **[Waste to Worth](https://wastetoworth-eight.vercel.app/)**  
+  A sustainability-focused project that transforms waste into valuable resources by promoting smart waste management and eco-friendly solutions.    
 
 ---
 
 ## 💡 About Me  
 
 - 🎓 Student at **Maharishi University of Information Technology, Lucknow**  
-- 🌱 Currently preparing for **GATE CSE 2026**  
 - 💼 Interested in building scalable web apps & startups  
 - 🎯 Goal: Become a strong full-stack developer & launch my own tech products  
 

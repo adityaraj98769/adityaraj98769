@@ -6,8 +6,7 @@
 
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityaraj-dwivedi-159906324)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-orange?logo=google-chrome&logoColor=white)]
-(https://ar-dnew-portflio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-orange?logo=google-chrome&logoColor=white)](https://ar-dnew-portflio.vercel.app/)
 
 ---
 
